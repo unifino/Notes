@@ -1,0 +1,1 @@
+{"_id":"note:dlvVrCyEZ","title":"OCR","content":"```\n#!/bin/bash\nfor f in ./out/*\ndo\nocrmypdf $f ./ocr/${f%%[0-9/.]*}${f#\"${f%%[1-9]*}\"}\ndone\nexit 0\n```","tags":[],"folderPathname":"/Misc.","data":{},"createdAt":"2021-04-10T18:30:49.786Z","updatedAt":"2021-04-10T18:31:37.743Z","trashed":false,"_rev":"N_D7atQfI"}
