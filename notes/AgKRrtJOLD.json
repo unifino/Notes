@@ -1,0 +1,1 @@
+{"_id":"note:AgKRrtJOLD","title":"misc.","content":"Add root privileges\n```\nsudo chown root:root /path/to/app\nsudo chmod 4755 /path/to/app\n```\n\n<hr>","tags":[],"folderPathname":"/Misc.","data":{},"createdAt":"2021-09-23T19:40:00.539Z","updatedAt":"2021-09-23T19:40:49.706Z","trashed":false,"_rev":"OsKi62pa7"}
