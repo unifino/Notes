@@ -1,0 +1,1 @@
+{"_id":"note:hJwaE6ViCz","title":"Wireless Connection","content":"1. Connect it with wire\n\n```adb tcpip 5555```\n\n2. Connect it wirelessly\n\n```adb connect x.x.x.x```","tags":[],"folderPathname":"/ADB","data":{},"createdAt":"2022-01-17T11:39:44.176Z","updatedAt":"2022-01-17T11:41:45.904Z","trashed":false,"_rev":"DXLrnD8Iq"}
