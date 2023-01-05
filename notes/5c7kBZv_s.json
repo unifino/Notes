@@ -1,0 +1,1 @@
+{"_id":"note:5c7kBZv_s","title":"PDF","content":"Remove CopyRight\n\n```\nfor i in *.pdf; do qpdf --decrypt $i --replace-input ; done;\n```\n\n<HR>","tags":[],"folderPathname":"/","data":{},"createdAt":"2023-01-02T11:04:43.991Z","updatedAt":"2023-01-02T11:05:40.323Z","trashed":false,"_rev":"eX-BG76Us"}
